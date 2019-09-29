@@ -1,4 +1,4 @@
-export let totalPrice;
+export var totalPrice;
 export const products = [
   {
     name: 'Star Wars Episode IV DVD',
